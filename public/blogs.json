@@ -1,0 +1,131 @@
+
+[
+    {
+      "id": 1,
+      "name": "Cardio Blast",
+      "image": "https://i.ibb.co/VvJVwvS/pexels-andrea-piacquadio-3768913.jpg",
+      "price": 20000,
+      "shortDescription": "High-intensity cardio workout to boost your stamina and burn calories.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 2,
+      "name": "Strength Training",
+      "image": "https://i.ibb.co/Gsf05TT/pexels-bruno-bueno-2204179.jpg",
+      "price": 25000,
+      "shortDescription": "Build muscle and tone your body with our strength training classes.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 3,
+      "name": "Yoga Relaxation",
+      "image": "https://i.ibb.co/VDYtjBz/pexels-julia-larson-6455796.jpg",
+      "price": 15000,
+      "shortDescription": "Unwind and rejuvenate with our calming yoga sessions.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 4,
+      "name": "CrossFit Challenge",
+      "image": "https://i.ibb.co/vczK7fx/pexels-andrea-piacquadio-3768916.jpg",
+      "price": 30000,
+      "shortDescription": "Experience the ultimate fitness challenge with CrossFit workouts.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 5,
+      "name": "Cardio Blast",
+      "image": "https://i.ibb.co/J3GrkXD/pexels-sabel-blanco-1756959.jpg",
+      "price": 20000,
+      "shortDescription": "High-intensity cardio workout to boost your stamina and burn calories.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 6,
+      "name": "Strength Training",
+      "image": "https://i.ibb.co/yYK1h54/woman-5380651-1280.jpg",
+      "price": 25000,
+      "shortDescription": "Build muscle and tone your body with our strength training classes.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 7,
+      "name": "Yoga Relaxation",
+      "image": "https://i.ibb.co/yYK1h54/woman-5380651-1280.jpg",
+      "price": 15000,
+      "shortDescription": "Unwind and rejuvenate with our calming yoga sessions.",
+      "buttonText": "Join Now"
+    },
+    {
+      "id": 8,
+      "name": "CrossFit Challenge",
+      "image": "https://i.ibb.co/djhCfVh/woman-2250970-1280.jpg",
+      "price": 30000,
+      "shortDescription": "Experience the ultimate fitness challenge with CrossFit workouts.",
+      "buttonText": "Join Now"
+    },
+    {
+        "id": 9,
+        "name": "Mira San",
+        "image": "https://i.ibb.co/VDYtjBz/pexels-julia-larson-6455796.jpg",
+        "price": 20000,
+        "shortDescription": "She is best trainer in my FitClub .She is honest and friendly person . She works hard ",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 10,
+        "name": "Karim Jannat",
+        "image": "https://i.ibb.co/1nBLGgT/pexels-andrew-personal-training-733500.jpg",
+        "price": 25000,
+        "shortDescription": " He is best trainer in my FitClub .He is honest and friendly person . She works hard Build muscle and tone your body with our strength training classes.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 11,
+        "name": "Sina Worrid",
+        "image": "https://i.ibb.co/X2RhvHz/pexels-cliff-booth-4058411-1.jpg",
+        "price": 15000,
+        "shortDescription": "He is best trainer in my FitClub .He is honest and friendly person . She works hard Build muscle and tone your body with our strength training classes.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 12,
+        "name": "Farnandos sha",
+        "image": "https://i.ibb.co/VqPk3zw/pexels-julia-larson-6455753.jpg",
+        "price": 30000,
+        "shortDescription": "He is best trainer in my FitClub .He is honest and friendly person . She works hard Build muscle and tone your body with our strength training classes..",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 13,
+        "name": "Isabella",
+        "image": "https://i.ibb.co/J3GrkXD/pexels-sabel-blanco-1756959.jpg",
+        "price": 20000,
+        "shortDescription": "High-intensity cardio workout to boost your stamina and burn calories.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 14,
+        "name": "Sebastian",
+        "image": "https://i.ibb.co/9vhfz35/pexels-andres-ayrton-6551096.jpg",
+        "price": 25000,
+        "shortDescription": "Build muscle and tone your body with our strength training classes.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 15,
+        "name": "Fariah ",
+        "image": "https://i.ibb.co/Yyg5MJ9/pexels-pixabay-414029.jpg",
+        "price": 15000,
+        "shortDescription": "Unwind and rejuvenate with our calming yoga sessions.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 16,
+        "name": "Kristan",
+        "image": "https://i.ibb.co/S5TGmyQ/pexels-ketut-subiyanto-4473622.jpg",
+        "price": 30000,
+        "shortDescription": "He is best trainer in my FitClub .He is honest and friendly person . She works hard Build muscle and tone your body with our strength training classes.",
+        "buttonText": "Join Now"
+      }
+  ]

@@ -1,0 +1,68 @@
+
+   [
+      {
+        "id": 1,
+        "name": "Cardio Blast",
+        "image": "https://i.ibb.co/1rS7Psd/pexels-william-choquette-1954524.jpg",
+        "price": 20000,
+        "shortDescription": "High-intensity cardio workout to boost your stamina and burn calories.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 2,
+        "name": "Strength Training",
+        "image": "https://i.ibb.co/Yyg5MJ9/pexels-pixabay-414029.jpg",
+        "price": 25000,
+        "shortDescription": "Build muscle and tone your body with our strength training classes.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 3,
+        "name": "Yoga Relaxation",
+        "image": "https://i.ibb.co/X2XxGYG/pexels-nathan-cowley-2413552.jpg",
+        "price": 15000,
+        "shortDescription": "Unwind and rejuvenate with our calming yoga sessions.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 4,
+        "name": "CrossFit Challenge",
+        "image": "https://i.ibb.co/kg3LW5N/man-2604149-1280.jpg",
+        "price": 30000,
+        "shortDescription": "Experience the ultimate fitness challenge with CrossFit workouts.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 5,
+        "name": "Cardio Blast",
+        "image": "https://i.ibb.co/WtWkbLq/training-828741-1280.jpg",
+        "price": 20000,
+        "shortDescription": "High-intensity cardio workout to boost your stamina and burn calories.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 6,
+        "name": "Strength Training",
+        "image": "https://i.ibb.co/jDHW40F/man-1282232-1280.jpg",
+        "price": 25000,
+        "shortDescription": "Build muscle and tone your body with our strength training classes.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 7,
+        "name": "Yoga Relaxation",
+        "image": "https://i.ibb.co/yYK1h54/woman-5380651-1280.jpg",
+        "price": 15000,
+        "shortDescription": "Unwind and rejuvenate with our calming yoga sessions.",
+        "buttonText": "Join Now"
+      },
+      {
+        "id": 8,
+        "name": "CrossFit Challenge",
+        "image": "https://i.ibb.co/djhCfVh/woman-2250970-1280.jpg",
+        "price": 30000,
+        "shortDescription": "Experience the ultimate fitness challenge with CrossFit workouts.",
+        "buttonText": "Join Now"
+      }
+    ]
+  
